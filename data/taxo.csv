@@ -1,0 +1,525 @@
+init_name;avi_name;order;family
+ABBOTTS BABBLER;Abbott's babbler;Passeriformes;Pellorneidae
+ABBOTTS BOOBY;Abbott's Booby;Pelecaniformes;Sulidae
+ABYSSINIAN GROUND HORNBILL;Abyssinian Ground-Hornbill;Bucerotiformes;Bucerotidae
+AFRICAN CROWNED CRANE;Grey Crowned-Crane;Gruiformes;Gruidae
+AFRICAN EMERALD CUCKOO;African Emerald Cuckoo;Cuculiformes;Cuculidae
+AFRICAN FIREFINCH;African Firefinch;Passeriformes;Estrildidae
+AFRICAN OYSTER CATCHER;African Oystercatcher;Charadriiformes;Haematopodidae
+AFRICAN PIED HORNBILL;African Pied Hornbill;Bucerotiformes;Bucerotidae
+AFRICAN PYGMY GOOSE;African Pygmy-goose;Anseriformes;Anatidae
+ALBATROSS;Amsterdam Albatross;Procellariiformes;Diomedeidae
+ALBERTS TOWHEE;Abert's Towhee;Passeriformes;Passerellidae
+ALEXANDRINE PARAKEET;Alexandrine Parakeet;Psittaciformes;Psittaculidae
+ALPINE CHOUGH;Yellow-billed Chough;Passeriformes;Corvidae
+ALTAMIRA YELLOWTHROAT;Altamira Yellowthroat;Passeriformes;Parulidae
+AMERICAN AVOCET;American Avocet;Charadriiformes;Recurvirostridae
+AMERICAN BITTERN;American Bittern;Pelecaniformes;Ardeidae
+AMERICAN COOT;American Coot;Gruiformes;Rallidae
+AMERICAN DIPPER;American Dipper;Passeriformes;Cinclidae
+AMERICAN FLAMINGO;American Flamingo;Phoenicopteriformes;Phoenicopteridae
+AMERICAN GOLDFINCH;American Goldfinch;Passeriformes;Fringillidae
+AMERICAN KESTREL;American Kestrel;Falconiformes;Falconidae
+AMERICAN PIPIT;Water Pipit;Passeriformes;Motacillidae
+AMERICAN REDSTART;American Redstart;Passeriformes;Parulidae
+AMERICAN ROBIN;American Robin;Passeriformes;Turdidae
+AMERICAN WIGEON;American Wigeon;Anseriformes;Anatidae
+AMETHYST WOODSTAR;Amethyst Woodstar;Apodiformes;Trochilidae
+ANDEAN GOOSE;Andean Goose;Anseriformes;Anatidae
+ANDEAN LAPWING;Andean Lapwing;Charadriiformes;Charadriidae
+ANDEAN SISKIN;Andean Siskin;Passeriformes;Fringillidae
+ANHINGA;Anhinga;Pelecaniformes;Anhingidae
+ANIANIAU;Anianiau;Passeriformes;Fringillidae
+ANNAS HUMMINGBIRD;Anna's Hummingbird;Apodiformes;Trochilidae
+ANTBIRD;Allpahuayo Antbird;Passeriformes;Thamnophilidae
+ANTILLEAN EUPHONIA;Hispaniolan Euphonia;Passeriformes;Fringillidae
+APAPANE;Apapane;Passeriformes;Fringillidae
+APOSTLEBIRD;Apostlebird;Passeriformes;Corcoracidae
+ARARIPE MANAKIN;Araripe Manakin;Passeriformes;Pipridae
+ASHY STORM PETREL;Ashy Storm-Petrel;Procellariiformes;Hydrobatidae
+ASHY THRUSHBIRD;Ashy Thrush;Passeriformes;Turdidae
+ASIAN CRESTED IBIS;Crested Ibis;Pelecaniformes;Threskiornithidae
+ASIAN DOLLARD BIRD;Dollarbird;Coraciiformes;Coraciidae
+ASIAN GREEN BEE EATER;Asian Green Bee-eater;Coraciiformes;Meropidae
+ASIAN OPENBILL STORK;Asian Openbill;Pelecaniformes;Ciconiidae
+AUCKLAND SHAQ;Auckland Island Shag;Pelecaniformes;Phalacrocoracidae
+AUSTRAL CANASTERO;Austral Canastero;Passeriformes;Furnariidae
+AUSTRALASIAN FIGBIRD;Southern Figbird;Passeriformes;Oriolidae
+AVADAVAT;Red Avadavat;Passeriformes;Estrildidae
+AZARAS SPINETAIL;Azara's Spinetail;Passeriformes;Furnariidae
+AZURE BREASTED PITTA;Azure-breasted Pitta;Passeriformes;Pittidae
+AZURE JAY;Azure Jay;Passeriformes;Corvidae
+AZURE TANAGER;Azure-shouldered Tanager;Passeriformes;Thraupidae
+AZURE TIT;Azure Tit;Passeriformes;Paridae
+BAIKAL TEAL;Baikal Teal;Anseriformes;Anatidae
+BALD EAGLE;Bald Eagle;Accipitriformes;Accipitridae
+BALD IBIS;Waldrapp;Pelecaniformes;Threskiornithidae
+BALI STARLING;Bali Myna;Passeriformes;Sturnidae
+BALTIMORE ORIOLE;Baltimore Oriole;Passeriformes;Icteridae
+BANANAQUIT;Bananaquit;Passeriformes;Thraupidae
+BAND TAILED GUAN;Band-tailed Guan;Galliformes;Cracidae
+BANDED BROADBILL;Banded Broadbill;Passeriformes;Eurylaimidae
+BANDED PITA;Javan Banded Pitta;Passeriformes;Pittidae
+BANDED STILT;Banded Stilt;Charadriiformes;Recurvirostridae
+BAR-TAILED GODWIT;Bar-tailed Godwit;Charadriiformes;Scolopacidae
+BARN OWL;Western Barn Owl;Strigiformes;Tytonidae
+BARN SWALLOW;Barn Swallow;Passeriformes;Hirundinidae
+BARRED PUFFBIRD;Barred Puffbird;Piciformes;Bucconidae
+BARROWS GOLDENEYE;Barrow's Goldeneye;Anseriformes;Anatidae
+BAY-BREASTED WARBLER;Bay-breasted Warbler;Passeriformes;Parulidae
+BEARDED BARBET;Bearded Barbet;Piciformes;Ramphastidae
+BEARDED BELLBIRD;Bearded Bellbird;Passeriformes;Cotingidae
+BEARDED REEDLING;Bearded Parrotbill;Passeriformes;Panuridae
+BELTED KINGFISHER;Belted Kingfisher;Coraciiformes;Alcedinidae
+BIRD OF PARADISE;Emperor Bird-of-paradise;Passeriformes;Paradisaeidae
+BLACK AND YELLOW BROADBILL;Black-and-yellow Broadbill;Passeriformes;Eurylaimidae
+BLACK BAZA;Black Baza;Accipitriformes;Accipitridae
+BLACK BREASTED PUFFBIRD;Black-breasted Puffbird;Piciformes;Bucconidae
+BLACK COCKATO;Yellow-tailed Black-Cockatoo;Psittaciformes;Cacatuidae
+BLACK FACED SPOONBILL;Black-faced Spoonbill;Pelecaniformes;Threskiornithidae
+BLACK FRANCOLIN;Black Francolin;Galliformes;Phasianidae
+BLACK HEADED CAIQUE;Black-headed Parrot;Psittaciformes;Psittacidae
+BLACK NECKED STILT;Black-necked Stilt;Charadriiformes;Recurvirostridae
+BLACK SKIMMER;Black Skimmer;Charadriiformes;Laridae
+BLACK SWAN;Black Swan;Anseriformes;Anatidae
+BLACK TAIL CRAKE;Black-tailed Crake;Gruiformes;Rallidae
+BLACK THROATED BUSHTIT;Black-throated Tit;Passeriformes;Aegithalidae
+BLACK THROATED HUET;Black-throated Huet-huet;Passeriformes;Rhinocryptidae
+BLACK THROATED WARBLER;Black-throated Blue Warbler;Passeriformes;Parulidae
+BLACK VENTED SHEARWATER;Black-vented Shearwater;Procellariiformes;Procellariidae
+BLACK VULTURE;Black Vulture;Accipitriformes;Cathartidae
+BLACK-CAPPED CHICKADEE;Black-capped Chickadee;Passeriformes;Paridae
+BLACK-NECKED GREBE;Black-necked�;Podicipediformes;Podicipedidae
+BLACK-THROATED SPARROW;Black-throated Sparrow;Passeriformes;Passerellidae
+BLACKBURNIAM WARBLER;Blackburnian Warbler;Passeriformes;Parulidae
+BLONDE CRESTED WOODPECKER;Blond-crested Woodpecker;Piciformes;Picidae
+BLOOD PHEASANT;Blood Pheasant;Galliformes;Phasianidae
+BLUE COAU;Blue Coua;Cuculiformes;Cuculidae
+BLUE DACNIS;Blue Dacnis;Passeriformes;Thraupidae
+BLUE GRAY GNATCATCHER;Blue-grey Gnatcatcher;Passeriformes;Polioptilidae
+BLUE GROSBEAK;Blue Grosbeak;Passeriformes;Cardinalidae
+BLUE GROUSE;Dusky Grouse;Galliformes;Phasianidae
+BLUE HERON;Pacific Reef-Egret;Pelecaniformes;Ardeidae
+BLUE MALKOHA;Yellowbill;Cuculiformes;Cuculidae
+BLUE THROATED PIPING GUAN;Trinidad Piping-Guan;Galliformes;Cracidae
+BLUE THROATED TOUCANET;Blue-throated Toucanet;Piciformes;Ramphastidae
+BOBOLINK;Bobolink;Passeriformes;Icteridae
+BORNEAN BRISTLEHEAD;Bornean Bristlehead;Passeriformes;Pityriasidae
+BORNEAN LEAFBIRD;Bornean Leafbird;Passeriformes;Irenidae
+BORNEAN PHEASANT;Bornean Peacock-Pheasant;Galliformes;Phasianidae
+BRANDT CORMARANT;Bornean Peacock-Pheasant;Galliformes;Phasianidae
+BREWERS BLACKBIRD;Brewer's Blackbird;Passeriformes;Icteridae
+BROWN CREPPER;Brown Treecreeper;Passeriformes;Climacteridae
+BROWN HEADED COWBIRD;Brown-headed Cowbird;Passeriformes;Icteridae
+BROWN NOODY;Brown Noddy;Charadriiformes;Laridae
+BROWN THRASHER;Brown Thrasher;Passeriformes;Mimidae
+BUFFLEHEAD;Bufflehead;Anseriformes;Anatidae
+BULWERS PHEASANT;Bulwer's Pheasant;Galliformes;Phasianidae
+BURCHELLS COURSER;Burchell's Courser;Charadriiformes;Glareolidae
+BUSH TURKEY;Australian Brush-turkey;Galliformes;Megapodiidae
+CAATINGA CACHOLOTE;Caatinga Cacholote;Passeriformes;Furnariidae
+CABOTS TRAGOPAN;Cabot's Tragopan;Galliformes;Phasianidae
+CACTUS WREN;Cactus Wren;Passeriformes;Troglodytidae
+CALIFORNIA CONDOR;California Condor;Accipitriformes;Cathartidae
+CALIFORNIA GULL;California Gull;Charadriiformes;Laridae
+CALIFORNIA QUAIL;California Quail;Galliformes;Odontophoridae
+CAMPO FLICKER;Campo Flicker;Piciformes;Picidae
+CANARY;Island Canary;Passeriformes;Fringillidae
+CANVASBACK;Flying Steamerduck;Anseriformes;Anatidae
+CAPE GLOSSY STARLING;Red-shouldered Glossy-Starling;Passeriformes;Sturnidae
+CAPE LONGCLAW;Cape Longclaw;Passeriformes;Motacillidae
+CAPE MAY WARBLER;Cape May Warbler;Passeriformes;Parulidae
+CAPE ROCK THRUSH;Cape Rock-Thrush;Passeriformes;Muscicapidae
+CAPPED HERON;Capped Heron;Pelecaniformes;Ardeidae
+CAPUCHINBIRD;Capuchinbird;Passeriformes;Cotingidae
+CARMINE BEE-EATER;Carmine Bee-eater;Coraciiformes;Meropidae
+CASPIAN TERN;Caspian Tern;Charadriiformes;Laridae
+CASSOWARY;Cassowary;Casuariiformes;Casuariidae
+CEDAR WAXWING;Cedar Waxwing;Passeriformes;Bombycillidae
+CERULEAN WARBLER;Cerulean Warbler;Passeriformes;Parulidae
+CHARA DE COLLAR;Black-collared Jay;Passeriformes;Corvidae
+CHATTERING LORY;Chattering Lory;Psittaciformes;Psittaculidae
+CHESTNET BELLIED EUPHONIA;Chestnut-bellied Euphonia;Passeriformes;Fringillidae
+CHESTNUT WINGED CUCKOO;Chestnut-winged Cuckoo;Cuculiformes;Cuculidae
+CHINESE BAMBOO PARTRIDGE;Chinese Bamboo-Partridge;Galliformes;Phasianidae
+CHINESE POND HERON;Chinese Pond-Heron;Pelecaniformes;Ardeidae
+CHIPPING SPARROW;Chipping Sparrow;Passeriformes;Passerellidae
+CHUCAO TAPACULO;Chucao Tapaculo;Passeriformes;Rhinocryptidae
+CHUKAR PARTRIDGE;Chukar;Galliformes;Phasianidae
+CINNAMON ATTILA;Cinnamon Attila;Passeriformes;Tyrannidae
+CINNAMON FLYCATCHER;Cinnamon Flycatcher;Passeriformes;Tyrannidae
+CINNAMON TEAL;Cinnamon Teal;Anseriformes;Anatidae
+CLARKS GREBE;Clark's Grebe;Podicipediformes;Podicipedidae
+CLARKS NUTCRACKER;Clark's Nutcracker;Passeriformes;Corvidae
+COCK OF THE ROCK;Andean Cock-of-the-rock;Passeriformes;Cotingidae
+COCKATOO;Cockatiel;Psittaciformes;Cacatuidae
+COLLARED ARACARI;Collared Aracari;Piciformes;Ramphastidae
+COLLARED CRESCENTCHEST;Collared Crescent-chest;Passeriformes;Melanopareiidae
+COMMON FIRECREST;Firecrest;Passeriformes;Regulidae
+COMMON GRACKLE;Common Grackle;Passeriformes;Icteridae
+COMMON HOUSE MARTIN;Northern House-Martin;Passeriformes;Hirundinidae
+COMMON IORA;Common Iora;Passeriformes;Aegithinidae
+COMMON LOON;Common Loon;Gaviiformes;Gaviidae
+COMMON POORWILL;Common Poorwill;Caprimulgiformes;Caprimulgidae
+COMMON STARLING;Common Starling;Passeriformes;Sturnidae
+COPPERSMITH BARBET;Coppersmith Barbet;Piciformes;Ramphastidae
+COPPERY TAILED COUCAL;Coppery-tailed Coucal;Cuculiformes;Cuculidae
+CRAB PLOVER;Crab Plover;Charadriiformes;Dromadidae
+CRANE HAWK;Crane Hawk;Accipitriformes;Accipitridae
+CREAM COLORED WOODPECKER;Cream-colored Woodpecker;Piciformes;Picidae
+CRESTED AUKLET;Crested Auklet;Charadriiformes;Alcidae
+CRESTED CARACARA;Crested Caracara;Falconiformes;Falconidae
+CRESTED COUA;Crested Coua;Cuculiformes;Cuculidae
+CRESTED FIREBACK;Bornean Fireback;Galliformes;Phasianidae
+CRESTED KINGFISHER;Crested Kingfisher;Coraciiformes;Alcedinidae
+CRESTED NUTHATCH;White-breasted Nuthatch;Passeriformes;Sittidae
+CRESTED OROPENDOLA;Crested Oropendola;Passeriformes;Icteridae
+CRESTED SERPENT EAGLE;Crested Serpent-Eagl;Accipitriformes;Accipitridae
+CRESTED SHRIKETIT;Eastern Shriketit;Passeriformes;Falcunculidae
+CRESTED WOOD PARTRIDGE;Crested Partridge;Galliformes;Phasianidae
+CRIMSON CHAT;Crimson Chat;Passeriformes;Meliphagidae
+CRIMSON SUNBIRD;Crimson Sunbird;Passeriformes;Nectariniidae
+CROW;American Crow;Passeriformes;Corvidae
+CUBAN TODY;Cuban Tody;Coraciiformes;Todidae
+CUBAN TROGON;Cuban Trogon;Trogoniformes;Trogonidae
+CURL CRESTED ARACURI;Curl-crested Aracari;Piciformes;Ramphastidae
+D-ARNAUDS BARBET;D'Arnaud's Barbet;Piciformes;Ramphastidae
+DALMATIAN PELICAN;Dalmatian Pelican;Pelecaniformes;Pelecanidae
+DARJEELING WOODPECKER;Darjeeling Woodpecker;Piciformes;Picidae
+DARK EYED JUNCO;Dark-eyed Junco;Passeriformes;Passerellidae
+DAURIAN REDSTART;Daurian Redstart;Passeriformes;Muscicapidae
+DEMOISELLE CRANE;Demoiselle Crane;Gruiformes;Gruidae
+DOUBLE BARRED FINCH;Double-barred Finch;Passeriformes;Estrildidae
+DOUBLE BRESTED CORMARANT;Double-crested Cormorant;Pelecaniformes;Phalacrocoracidae
+DOUBLE EYED FIG PARROT;Double-eyed Fig-Parrot;Psittaciformes;Psittaculidae
+DOWNY WOODPECKER;Downy Woodpecker;Piciformes;Picidae
+DUNLIN;Dunlin;Charadriiformes;Scolopacidae
+DUSKY LORY;Dusky Lory;Psittaciformes;Psittaculidae
+DUSKY ROBIN;Dusky Robin;Passeriformes;Petroicidae
+EARED PITA;Eared Pitta;Passeriformes;Pittidae
+EASTERN BLUEBIRD;Eastern Bluebird;Passeriformes;Turdidae
+EASTERN BLUEBONNET;Eastern Bluebonnet;Psittaciformes;Psittaculidae
+EASTERN GOLDEN WEAVER;African Golden-Weaver;Passeriformes;Ploceidae
+EASTERN MEADOWLARK;Eastern Meadowlark;Passeriformes;Icteridae
+EASTERN ROSELLA;Eastern Rosella;Psittaciformes;Psittaculidae
+EASTERN TOWEE;Eastern Towhee;Passeriformes;Passerellidae
+EASTERN WIP POOR WILL;Eastern Whip-poor-will;Caprimulgiformes;Caprimulgidae
+EASTERN YELLOW ROBIN;Yellow Robin;Passeriformes;Petroicidae
+ECUADORIAN HILLSTAR;Ecuadorian Hillstar;Apodiformes;Trochilidae
+EGYPTIAN GOOSE;Egyptian Goose;Anseriformes;Anatidae
+ELEGANT TROGON;Elegant Trogon;Trogoniformes;Trogonidae
+ELLIOTS  PHEASANT;Elliot's Pheasant;Galliformes;Phasianidae
+EMERALD TANAGER;Emerald Tanager;Passeriformes;Thraupidae
+EMPEROR PENGUIN;Emperor Penguin;Sphenisciformes;Spheniscidae
+EMU;Emu;Casuariiformes;Casuariidae
+ENGGANO MYNA;Common Hill Myna;Passeriformes;Sturnidae
+EURASIAN BULLFINCH;Eurasian Bullfinch;Passeriformes;Fringillidae
+EURASIAN GOLDEN ORIOLE;Eurasian Golden-Oriole;Passeriformes;Oriolidae
+EURASIAN MAGPIE;Eurasian Magpie;Passeriformes;Corvidae
+EUROPEAN GOLDFINCH;European Goldfinch;Passeriformes;Fringillidae
+EUROPEAN TURTLE DOVE;European Turtle-Dove;Columbiformes;Columbidae
+EVENING GROSBEAK;Evening Grosbeak;Passeriformes;Fringillidae
+FAIRY BLUEBIRD;Philippine Fairy-bluebird;Passeriformes;Irenidae
+FAIRY PENGUIN;Little Penguin;Sphenisciformes;Spheniscidae
+FAIRY TERN;Fairy Tern;Charadriiformes;Laridae
+FAN TAILED WIDOW;Fan-tailed Widowbird;Passeriformes;Ploceidae
+FASCIATED WREN;Fasciated Wren;Passeriformes;Troglodytidae
+FIERY MINIVET;Small Minivet;Passeriformes;Campephagidae
+FIORDLAND PENGUIN;Fiordland Penguin;Sphenisciformes;Spheniscidae
+FIRE TAILLED MYZORNIS;Fire-tailed Myzornis;Passeriformes;Sylviidae
+FLAME BOWERBIRD;Masked Bowerbird;Passeriformes;Ptilonorhynchidae
+FLAME TANAGER;Flame-colored Tanager;Passeriformes;Cardinalidae
+FOREST WAGTAIL;Forest Wagtail;Passeriformes;Motacillidae
+FRIGATE;White-faced Storm-Petrel;Procellariiformes;Oceanitidae
+FRILL BACK PIGEON;FRILLBACK PIGEON;Columbiformes;Columbidae
+GAMBELS QUAIL;Gambel's Quail;Galliformes;Odontophoridae
+GANG GANG COCKATOO;Gang-gang Cockatoo;Psittaciformes;Cacatuidae
+GILA WOODPECKER;Grey-breasted Woodpecker;Piciformes;Picidae
+GILDED FLICKER;Northern Flicker;Piciformes;Picidae
+GLOSSY IBIS;Glossy Ibis;Pelecaniformes;Threskiornithidae
+GO AWAY BIRD;Bare-faced Go-away-bird;Musophagiformes;Musophagidae
+GOLD WING WARBLER;Golden-winged Warbler;Passeriformes;Parulidae
+GOLDEN BOWER BIRD;Golden Bowerbird;Passeriformes;Ptilonorhynchidae
+GOLDEN CHEEKED WARBLER;Golden-cheeked Warbler;Passeriformes;Parulidae
+GOLDEN CHLOROPHONIA;Golden-browed Chlorophonia;Passeriformes;Fringillidae
+GOLDEN EAGLE;Golden Eagle;Accipitriformes;Accipitridae
+GOLDEN PARAKEET;Golden Parakeet;Psittaciformes;Psittacidae
+GOLDEN PHEASANT;Golden Pheasant;Galliformes;Phasianidae
+GOLDEN PIPIT;Golden Pipit;Passeriformes;Motacillidae
+GOULDIAN FINCH;Gouldian Finch;Passeriformes;Estrildidae
+GRANDALA;Grandala;Passeriformes;Turdidae
+GRAY CATBIRD;Grey Catbird;Passeriformes;Mimidae
+GRAY KINGBIRD;Grey Kingbird;Passeriformes;Tyrannidae
+GRAY PARTRIDGE;Grey Francolin;Galliformes;Phasianidae
+GREAT ARGUS;Great Argus;Galliformes;Phasianidae
+GREAT GRAY OWL;Great Grey Owl;Strigiformes;Strigidae
+GREAT JACAMAR;Great Jacamar;Piciformes;Galbulidae
+GREAT KISKADEE;Great Kiskadee;Passeriformes;Tyrannidae
+GREAT POTOO;Great Potoo;Caprimulgiformes;Nyctibiidae
+GREAT TINAMOU;Great Tinamou;Tinamiformes;Tinamidae
+GREAT XENOPS;Great Xenops;Passeriformes;Furnariidae
+GREATER PEWEE;Greater Pewee;Passeriformes;Tyrannidae
+GREATER PRAIRIE CHICKEN;Greater Prairie-chicken;Galliformes;Phasianidae
+GREATOR SAGE GROUSE;Greater Sage-Grouse;Galliformes;Phasianidae
+GREEN BROADBILL;Grauer's Broadbill;Passeriformes;Eurylaimidae
+GREEN JAY;Inca Jay;Passeriformes;Corvidae
+GREEN MAGPIE;Green Magpie;Passeriformes;Corvidae
+GREEN WINGED DOVE;Emerald Emerald-Dove;Columbiformes;Columbidae
+GREY CUCKOOSHRIKE;Grey Cuckooshrike;Passeriformes;Campephagidae
+GREY HEADED CHACHALACA;Grey-headed Chachalaca;Galliformes;Cracidae
+GREY HEADED FISH EAGLE;Grey-headed Fish-Eagle;Accipitriformes;Accipitridae
+GREY PLOVER;Grey Plover;Charadriiformes;Charadriidae
+GROVED BILLED ANI;Groove-billed Ani;Cuculiformes;Cuculidae
+GUINEA TURACO;Guinea Turaco;Musophagiformes;Musophagidae
+GUINEAFOWL;Helmeted Guineafowl;Galliformes;Numididae
+GURNEYS PITTA;Gurney's Pitta;Passeriformes;Pittidae
+GYRFALCON;Gyrfalcon;Falconiformes;Falconidae
+HAMERKOP;Hamerkop;Pelecaniformes;Scopidae
+HARLEQUIN DUCK;Harlequin Duck;Anseriformes;Anatidae
+HARLEQUIN QUAIL;Harlequin Quail;Galliformes;Phasianidae
+HARPY EAGLE;Harpy Eagle;Accipitriformes;Accipitridae
+HAWAIIAN GOOSE;Nene;Anseriformes;Anatidae
+HAWFINCH;Hawfinch;Passeriformes;Fringillidae
+HELMET VANGA;Helmet Vanga;Passeriformes;Vangidae
+HEPATIC TANAGER;Helmet Vanga;Passeriformes;Vangidae
+HIMALAYAN BLUETAIL;Himalayan Bush-Robin;Passeriformes;Muscicapidae
+HIMALAYAN MONAL;Himalayan Monal;Galliformes;Phasianidae
+HOATZIN;Hoatzin;Opisthocomiformes;Opisthocomidae
+HOODED MERGANSER;Hooded Merganser;Anseriformes;Anatidae
+HOOPOES;Eurasian Hoopoe;Bucerotiformes;Upupidae
+HORNED GUAN;Horned Guan;Galliformes;Cracidae
+HORNED LARK;Horned Lark;Passeriformes;Alaudidae
+HORNED SUNGEM;Horned Sungem;Apodiformes;Trochilidae
+HOUSE FINCH;House Finch;Passeriformes;Fringillidae
+HOUSE SPARROW;House Sparrow;Passeriformes;Passeridae
+HYACINTH MACAW;Hyacinth Macaw;Psittaciformes;Psittacidae
+IBERIAN MAGPIE;Iberian Magpie;Passeriformes;Corvidae
+IBISBILL;Ibisbill;Charadriiformes;Haematopodidae
+IMPERIAL SHAQ;Imperial Georgia Shag;Pelecaniformes;Phalacrocoracidae
+INCA TERN;Inca Tern;Charadriiformes;Laridae
+INDIAN BUSTARD;Indian Bustard;Otidiformes;Otididae
+INDIAN PITTA;Indian Pitta;Passeriformes;Pittidae
+INDIAN ROLLER;Indian Roller;Coraciiformes;Coraciidae
+INDIAN VULTURE;Long-billed Vulture;Accipitriformes;Accipitridae
+INDIGO BUNTING;Indigo Bunting;Passeriformes;Cardinalidae
+INDIGO FLYCATCHER;Indigo Flycatcher;Passeriformes;Muscicapidae
+INLAND DOTTEREL;Inland Dotterel;Charadriiformes;Charadriidae
+IVORY BILLED ARACARI;Ivory-billed Aracari;Piciformes;Ramphastidae
+IVORY GULL;Ivory Gull;Charadriiformes;Laridae
+IWI;Southern Brown Kiwi;Apterygiformes;Apterygidae
+JABIRU;Black-necked Stork;Pelecaniformes;Ciconiidae
+JACK SNIPE;Jack Snipe;Charadriiformes;Scolopacidae
+JACOBIN PIGEON;JACOBIN PIGEON;Columbiformes;Columbidae
+JANDAYA PARAKEET;Jandaya Parakeet;Psittaciformes;Psittacidae
+JAPANESE ROBIN;Japanese Robin;Passeriformes;Muscicapidae
+JAVA SPARROW;Java Sparrow;Passeriformes;Estrildidae
+JOCOTOCO ANTPITTA;Jocotoco Antpitta;Passeriformes;Grallariidae
+KAGU;Kagu;Eurypygiformes;Rhynochetidae
+KAKAPO;Kakapo;Psittaciformes;Strigopidae
+KILLDEAR;Killdeer;Charadriiformes;Charadriidae
+KING EIDER;King Eider;Anseriformes;Anatidae
+KING VULTURE;King Vulture;Accipitriformes;Cathartidae
+KIWI;Little Spotted Kiwi;Apterygiformes;Apterygidae
+KNOB BILLED DUCK;Knob-billed Duck;Anseriformes;Anatidae
+KOOKABURRA;Laughing Kookaburra;Coraciiformes;Alcedinidae
+LARK BUNTING;Lark Bunting;Passeriformes;Passerellidae
+LAUGHING GULL;Laughing Gull;Charadriiformes;Laridae
+LAZULI BUNTING;Lazuli Bunting;Passeriformes;Cardinalidae
+LESSER ADJUTANT;Lesser Adjutant;Pelecaniformes;Ciconiidae
+LILAC ROLLER;Lilac-breasted Roller;Coraciiformes;Coraciidae
+LIMPKIN;Limpkin;Gruiformes;Aramidae
+LITTLE AUK;Dovekie;Charadriiformes;Alcidae
+LOGGERHEAD SHRIKE;Loggerhead Shrike;Passeriformes;Laniidae
+LONG-EARED OWL;Long-eared Owl;Strigiformes;Strigidae
+LUCIFER HUMMINGBIRD;Lucifer Hummingbird;Apodiformes;Trochilidae
+MAGPIE GOOSE;Magpie Goose;Anseriformes;Anseranatidae
+MALABAR HORNBILL;Malabar Pied-Hornbill;Bucerotiformes;Bucerotidae
+MALACHITE KINGFISHER;Malachite Kingfisher;Coraciiformes;Alcedinidae
+MALAGASY WHITE EYE;Malagasy White-eye;Passeriformes;Zosteropidae
+MALEO;Maleo;Galliformes;Megapodiidae
+MALLARD DUCK;Mallard;Anseriformes;Anatidae
+MANDRIN DUCK;Mandarin Duck;Anseriformes;Anatidae
+MANGROVE CUCKOO;Mangrove Cuckoo;Cuculiformes;Cuculidae
+MARABOU STORK;Marabou Stork;Pelecaniformes;Ciconiidae
+MASKED BOBWHITE;Northern Bobwhite�;Galliformes;Odontophoridae
+MASKED BOOBY;Masked Booby;Pelecaniformes;Sulidae
+MASKED LAPWING;Masked Lapwing;Charadriiformes;Charadriidae
+MCKAYS BUNTING;McKay's Bunting;Passeriformes;Calcariidae
+MERLIN;Merlin;Falconiformes;Falconidae
+MIKADO  PHEASANT;Mikado Pheasant;Galliformes;Phasianidae
+MILITARY MACAW;Military Macaw;Psittaciformes;Psittacidae
+MOURNING DOVE;Mourning Collared-Dove;Columbiformes;Columbidae
+MYNA;Common Myna;Passeriformes;Sturnidae
+NICOBAR PIGEON;Nicobar Pigeon;Columbiformes;Columbidae
+NOISY FRIARBIRD;Noisy Friarbird;Passeriformes;Meliphagidae
+NORTHERN BEARDLESS TYRANNULET;Northern Beardless-Tyrannulet;Passeriformes;Tyrannidae
+NORTHERN CARDINAL;Northern Cardinal;Passeriformes;Cardinalidae
+NORTHERN FLICKER;Northern Flicker;Piciformes;Picidae
+NORTHERN FULMAR;Northern Fulmar;Procellariiformes;Procellariidae
+NORTHERN GANNET;Northern Gannet;Pelecaniformes;Sulidae
+NORTHERN GOSHAWK;Eurasian Goshawk;Accipitriformes;Accipitridae
+NORTHERN JACANA;Northern Jacana;Charadriiformes;Jacanidae
+NORTHERN MOCKINGBIRD;Northern Mockingbird;Passeriformes;Mimidae
+NORTHERN PARULA;Northern Parula;Passeriformes;Parulidae
+NORTHERN RED BISHOP;Northern Red Bishop;Passeriformes;Ploceidae
+NORTHERN SHOVELER;Northern Shoveler;Anseriformes;Anatidae
+OCELLATED TURKEY;Ocellated Turkey;Galliformes;Phasianidae
+OILBIRD;Oilbird;Caprimulgiformes;Steatornithidae
+OKINAWA RAIL;Okinawa Rail;Gruiformes;Rallidae
+ORANGE BREASTED TROGON;Orange-breasted Trogon;Trogoniformes;Trogonidae
+ORANGE BRESTED BUNTING;Orange-breasted Bunting;Passeriformes;Cardinalidae
+ORIENTAL BAY OWL;Oriental Bay-Owl;Strigiformes;Tytonidae
+ORNATE HAWK EAGLE;Ornate Hawk-Eagle;Accipitriformes;Accipitridae
+OSPREY;Osprey;Accipitriformes;Pandionidae
+OSTRICH;African Ostrich;Struthioniformes;Struthionidae
+OVENBIRD;Rufous Hornero;Passeriformes;Furnariidae
+OYSTER CATCHER;Pied Oystercatcher;Charadriiformes;Haematopodidae
+PAINTED BUNTING;Painted Bunting;Passeriformes;Cardinalidae
+PALILA;Palila;Passeriformes;Fringillidae
+PALM NUT VULTURE;Palm-nut Vulture;Accipitriformes;Accipitridae
+PARADISE TANAGER;Paradise Tanager;Passeriformes;Thraupidae
+PARAKETT  AUKLET;Parakeet Auklet;Charadriiformes;Alcidae
+PARUS MAJOR;Eurasian Great Tit;Passeriformes;Paridae
+PATAGONIAN SIERRA FINCH;Patagonian Sierra-Finch;Passeriformes;Thraupidae
+PEACOCK;Peacock Coquette;Apodiformes;Trochilidae
+PEREGRINE FALCON;Peregrine Falcon;Falconiformes;Falconidae
+PHAINOPEPLA;Phainopepla;Passeriformes;Ptiliogonatidae
+PHILIPPINE EAGLE;Great Philippine Eagle;Accipitriformes;Accipitridae
+PINK ROBIN;Pink Robin;Passeriformes;Petroicidae
+PLUSH CRESTED JAY;Plush-crested Jay;Passeriformes;Corvidae
+POMARINE JAEGER;Pomarine Jaeger;Charadriiformes;Stercorariidae
+PUFFIN;Atlantic Puffin;Charadriiformes;Alcidae
+PUNA TEAL;Puna Teal;Anseriformes;Anatidae
+PURPLE FINCH;Purple Finch;Passeriformes;Fringillidae
+PURPLE GALLINULE;Purple Swamphen;Gruiformes;Rallidae
+PURPLE MARTIN;Purple Martin;Passeriformes;Hirundinidae
+PURPLE SWAMPHEN;Purple Swamphen;Gruiformes;Rallidae
+PYGMY KINGFISHER;African Pygmy-Kingfisher;Coraciiformes;Alcedinidae
+PYRRHULOXIA;Pyrrhuloxia;Passeriformes;Cardinalidae
+QUETZAL;Resplendent Quetzal;Trogoniformes;Trogonidae
+RAINBOW LORIKEET;Rainbow Lorikeet;Psittaciformes;Psittaculidae
+RAZORBILL;Razorbill;Charadriiformes;Alcidae
+RED BEARDED BEE EATER;Red-bearded Bee-eater;Coraciiformes;Meropidae
+RED BELLIED PITTA;Red-bellied Pitta;Passeriformes;Pittidae
+RED BILLED TROPICBIRD;Red-billed Tropicbird;Phaethontiformes;Phaethontidae
+RED BROWED FINCH;Red-browed Firetail;Passeriformes;Estrildidae
+RED CROSSBILL;Scottish Crossbill;Passeriformes;Fringillidae
+RED FACED CORMORANT;Red-faced Cormorant;Pelecaniformes;Phalacrocoracidae
+RED FACED WARBLER;Red-faced Warbler;Passeriformes;Parulidae
+RED FODY;Madagascar Red Fody;Passeriformes;Ploceidae
+RED HEADED DUCK;Redhead;Anseriformes;Anatidae
+RED HEADED WOODPECKER;Red-headed Woodpecker;Piciformes;Picidae
+RED KNOT;Red Knot;Charadriiformes;Scolopacidae
+RED LEGGED HONEYCREEPER;Red-legged Honeycreeper;Passeriformes;Thraupidae
+RED NAPED TROGON;Red-naped Trogon;Trogoniformes;Trogonidae
+RED SHOULDERED HAWK;Red-shouldered Hawk;Accipitriformes;Accipitridae
+RED TAILED HAWK;Red-tailed Hawk;Accipitriformes;Accipitridae
+RED TAILED THRUSH;Red-tailed Ant-Thrush;Passeriformes;Turdidae
+RED WINGED BLACKBIRD;Red-winged Blackbird;Passeriformes;Icteridae
+RED WISKERED BULBUL;Red-whiskered Bulbul;Passeriformes;Pycnonotidae
+REGENT BOWERBIRD;Regent Bowerbird;Passeriformes;Ptilonorhynchidae
+RING-NECKED PHEASANT;Common Pheasant;Galliformes;Phasianidae
+ROADRUNNER;Greater Roadrunner;Cuculiformes;Cuculidae
+ROCK DOVE;Rock Pigeon;Columbiformes;Columbidae
+ROSE BREASTED COCKATOO;Galah;Psittaciformes;Cacatuidae
+ROSE BREASTED GROSBEAK;Rose-breasted Grosbeak;Passeriformes;Cardinalidae
+ROSEATE SPOONBILL;Roseate Spoonbill;Pelecaniformes;Threskiornithidae
+ROSY FACED LOVEBIRD;Rosy-faced Lovebird;Psittaciformes;Psittaculidae
+ROUGH LEG BUZZARD;Rough-legged Hawk;Accipitriformes;Accipitridae
+ROYAL FLYCATCHER;Amazonian Royal-Flycatcher;Passeriformes;Onychorhynchidae
+RUBY CROWNED KINGLET;Ruby-crowned Kinglet;Passeriformes;Regulidae
+RUBY THROATED HUMMINGBIRD;Ruby-throated Hummingbird;Apodiformes;Trochilidae
+RUDDY SHELDUCK;Ruddy Shelduck;Anseriformes;Anatidae
+RUDY KINGFISHER;Common Kingfisher;Coraciiformes;Alcedinidae
+RUFOUS KINGFISHER;Green-and-rufous Kingfisher;Coraciiformes;Alcedinidae
+RUFOUS TREPE;Rufous Treecreeper;Passeriformes;Climacteridae
+RUFUOS MOTMOT;Rufous Motmot;Coraciiformes;Momotidae
+SAMATRAN THRUSH;Shiny Whistling-Thrush;Passeriformes;Muscicapidae
+SAND MARTIN;Sand Martin;Passeriformes;Hirundinidae
+SANDHILL CRANE;Sandhill Crane;Gruiformes;Gruidae
+SATYR TRAGOPAN;Satyr Tragopan;Galliformes;Phasianidae
+SAYS PHOEBE;Say's Phoebe;Passeriformes;Tyrannidae
+SCARLET CROWNED FRUIT DOVE;Crimson-crowned Fruit-Dove;Columbiformes;Columbidae
+SCARLET FACED LIOCICHLA;Scarlet-faced Liocichla;Passeriformes;Leiothrichidae
+SCARLET IBIS;Scarlet Ibis;Pelecaniformes;Threskiornithidae
+SCARLET MACAW;Scarlet Macaw;Psittaciformes;Psittacidae
+SCARLET TANAGER;Scarlet Tanager;Passeriformes;Cardinalidae
+SHOEBILL;Shoebill;Pelecaniformes;Balaenicipitidae
+SHORT BILLED DOWITCHER;Short-billed Dowitcher;Charadriiformes;Scolopacidae
+SMITHS LONGSPUR;Smith's Longspur;Smith's Longspur;Calcariidae
+SNOW GOOSE;Snow Goose;Anseriformes;Anatidae
+SNOW PARTRIDGE;Snow Partridge;Galliformes;Phasianidae
+SNOWY EGRET;Snowy Egret;Pelecaniformes;Ardeidae
+SNOWY OWL;Snowy Owl;Strigiformes;Strigidae
+SNOWY PLOVER;Snowy Plover;Charadriiformes;Charadriidae
+SNOWY SHEATHBILL;Snowy Sheathbill;Charadriiformes;Chionidae
+SORA;Sora;Gruiformes;Rallidae
+SPANGLED COTINGA;Spangled Cotinga;Passeriformes;Cotingidae
+SPLENDID WREN;Splendid Fairywren;Passeriformes;Maluridae
+SPOON BILED SANDPIPER;Spoon-billed Sandpiper;Charadriiformes;Scolopacidae
+SPOTTED CATBIRD;Spotted Catbird;Passeriformes;Ptilonorhynchidae
+SPOTTED WHISTLING DUCK;Spotted Whistling-Duck;Anseriformes;Anatidae
+SQUACCO HERON;Squacco Heron;Pelecaniformes;Ardeidae
+SRI LANKA BLUE MAGPIE;Ceylon Magpie;Passeriformes;Corvidae
+STEAMER DUCK;Chubut Steamerduck;Anseriformes;Anatidae
+STORK BILLED KINGFISHER;Stork-billed Kingfisher;Coraciiformes;Alcedinidae
+STRIATED CARACARA;Striated Caracara;Falconiformes;Falconidae
+STRIPED OWL;Striped Owl;Strigiformes;Strigidae
+STRIPPED MANAKIN;Eastern Striped Manakin;Passeriformes;Pipridae
+STRIPPED SWALLOW;Lesser Striped-Swallow;Passeriformes;Hirundinidae
+SUNBITTERN;Sunbittern;Eurypygiformes;Eurypygidae
+SUPERB STARLING;Superb Starling;Passeriformes;Sturnidae
+SURF SCOTER;Surf Scoter;Anseriformes;Anatidae
+SWINHOES PHEASANT;Swinhoe's Pheasant;Galliformes;Phasianidae
+TAILORBIRD;Common Tailorbird;Passeriformes;Cisticolidae
+TAIWAN MAGPIE;Formosan Magpie;Passeriformes;Corvidae
+TAKAHE;South Island Takahe;Gruiformes;Rallidae
+TASMANIAN HEN;Tasmanian Native-hen;Gruiformes;Rallidae
+TAWNY FROGMOUTH;Tawny Frogmouth;Caprimulgiformes;Podargidae
+TEAL DUCK;Common Teal;Anseriformes;Anatidae
+TIT MOUSE;Tufted Titmouse;Passeriformes;Paridae
+TOUCHAN;Black-billed Mountain-Toucan;Piciformes;Ramphastidae
+TOWNSENDS WARBLER;Townsend's Warbler;Passeriformes;Parulidae
+TREE SWALLOW;Tree Swallow;Passeriformes;Hirundinidae
+TRICOLORED BLACKBIRD;Tricolored Blackbird;Passeriformes;Icteridae
+TROPICAL KINGBIRD;Tropical Kingbird;Passeriformes;Tyrannidae
+TRUMPTER SWAN;Trumpeter Swan;Anseriformes;Anatidae
+TURKEY VULTURE;Turkey Vulture;Accipitriformes;Cathartidae
+TURQUOISE MOTMOT;Turquoise-browed Motmot;Coraciiformes;Momotidae
+UMBRELLA BIRD;Amazonian Umbrellabird;Passeriformes;Cotingidae
+VARIED THRUSH;Varied Thrush;Passeriformes;Turdidae
+VEERY;Veery;Passeriformes;Turdidae
+VENEZUELIAN TROUPIAL;Venezuelan Troupial;Passeriformes;Icteridae
+VERDIN;Verdin;Passeriformes;Remizidae
+VERMILION FLYCATHER;Brujo Flycatcher;Passeriformes;Tyrannidae
+VICTORIA CROWNED PIGEON;Victoria Crowned-Pigeon;Columbiformes;Columbidae
+VIOLET BACKED STARLING;Violet-backed Starling;Passeriformes;Sturnidae
+VIOLET CUCKOO;Violet Cuckoo;Cuculiformes;Cuculidae
+VIOLET GREEN SWALLOW;Violet-green Swallow;Passeriformes;Hirundinidae
+VIOLET TURACO;Violet Turaco;Musophagiformes;Musophagidae
+VISAYAN HORNBILL;Tarictic Hornbill;Bucerotiformes;Bucerotidae
+VULTURINE GUINEAFOWL;Vulturine Guineafowl;Galliformes;Numididae
+WALL CREAPER;Wallcreeper;Passeriformes;Sittidae
+WATTLED CURASSOW;Wattled Curassow;Galliformes;Cracidae
+WATTLED LAPWING;Wattled Lapwing;Charadriiformes;Charadriidae
+WHIMBREL;Whimbrel;Charadriiformes;Scolopacidae
+WHITE BREASTED WATERHEN;White-breasted Waterhen;Gruiformes;Rallidae
+WHITE BROWED CRAKE;White-browed Crake;Gruiformes;Rallidae
+WHITE CHEEKED TURACO;White-cheeked Turaco;Musophagiformes;Musophagidae
+WHITE CRESTED HORNBILL;Western or Eastern Long-tailed Hornbill;Bucerotiformes;Bucerotidae
+WHITE EARED HUMMINGBIRD;White-eared Hummingbird;Apodiformes;Trochilidae
+WHITE NECKED RAVEN;White-necked Raven;Passeriformes;Corvidae
+WHITE TAILED TROPIC;White-tailed Tropicbird;Phaethontiformes;Phaethontidae
+WHITE THROATED BEE EATER;White-throated Bee-eater;Coraciiformes;Meropidae
+WILD TURKEY;Wild Turkey;Galliformes;Phasianidae
+WILLOW PTARMIGAN;Willow Ptarmigan;Galliformes;Phasianidae
+WILSONS BIRD OF PARADISE;Wilson's Bird-of-paradise;Passeriformes;Paradisaeidae
+WOOD DUCK;Wood Duck;Anseriformes;Anatidae
+WOOD THRUSH;Wood Thrush;Passeriformes;Turdidae
+WOODLAND KINGFISHER;Woodland Kingfisher;Coraciiformes;Alcedinidae
+WRENTIT;Wrentit;Passeriformes;Sylviidae
+YELLOW BELLIED FLOWERPECKER;Yellow-bellied Flowerpecker;Passeriformes;Dicaeidae
+YELLOW BREASTED CHAT;Yellow-breasted Chat;Passeriformes;Icteridae
+YELLOW CACIQUE;Yellow-rumped Cacique;Passeriformes;Icteridae
+YELLOW HEADED BLACKBIRD;Yellow-headed Blackbird;Passeriformes;Icteridae
+ZEBRA DOVE;Zebra Dove;Columbiformes;Columbidae

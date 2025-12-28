@@ -1,0 +1,26 @@
+# Dataset
+data/raw/
+data/processed/
+
+# Models (trop gros pour Git)
+*.keras
+*.h5
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+*.egg-info/
+
+# Logs
+logs/*.json
+checkpoints/*.keras
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# IDE
+.vscode/
+.idea/
